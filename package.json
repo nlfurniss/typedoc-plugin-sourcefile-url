@@ -1,6 +1,6 @@
 {
   "author": "Gerard Delmàs",
-  "name": "typedoc-plugin-sourcefile-url",
+  "name": "nlfurniss-typedoc-plugin-sourcefile-url",
   "version": "1.0.6",
   "description": "typedoc plugin to set custom source file URL links",
   "homepage": "https://github.com/gdelmas/typedoc-plugin-sourcefile-url",
